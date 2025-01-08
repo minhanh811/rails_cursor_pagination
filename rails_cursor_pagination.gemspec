@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
     'items that are being deleted from or added to the collection on ' \
     'previous pages, cursor pagination will continue to offer a stable set ' \
     'regardless of changes to the base relation.'
-  spec.homepage = 'https://github.com/xing/rails_cursor_pagination'
+  spec.homepage = 'https://github.com/minhanh811/rails_cursor_pagination'
   spec.license = 'MIT'
   spec.required_ruby_version = Gem::Requirement.new('>= 2.6.0')
 
